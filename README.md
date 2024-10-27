@@ -79,9 +79,9 @@ Xin chào! Tôi là **Nhật Hào**, một nhà phát triển full stack với n
 | <img src="https://github.com/ngtrnhao.png" width="50" height="50" style="border-radius:50%"> | Nguyễn Trương Nhật Hào | Product Owner | Định hướng sản phẩm, UX Design |
 | <img src="https://github.com/vinhphatt.png" width="50" height="50" style="border-radius:50%"> | Yê Vĩnh Phát | Scrum Master | Quản lý quy trình Agile |
 | <img src="https://github.com/khanh1113.png" width="50" height="50" style="border-radius:50%"> | Lê Bảo Khanh | Team Leader | Kiến trúc hệ thống, Code review |
-| <img src="https://github.com/baongoc123.png" width="50" height="50" style="border-radius:50%"> | Trần Bảo Ngọc | Frontend Developer | UI Implementation, Animation |
-| <img src="https://github.com/trongphuc109.png" width="50" height="50" style="border-radius:50%"> | Lê Trọng Phúc | Backend Developer | API Development, Database Optimization |
-| <img src="https://github.com/nghiatan11.png" width="50" height="50" style="border-radius:50%"> | Trần Tấn Nghĩa | Full Stack Developer | Integration, Testing |
+| <img src="https://github.com/ngocbt.png" width="50" height="50" style="border-radius:50%"> | Trần Bảo Ngọc | Frontend Developer | UI Implementation, Animation |
+| <img src="https://github.com/Phuclene.png" width="50" height="50" style="border-radius:50%"> | Lê Trọng Phúc | Backend Developer | API Development, Database Optimization |
+| <img src="https://github.com/enno62.png" width="50" height="50" style="border-radius:50%"> | Trần Tấn Nghĩa | Full Stack Developer | Integration, Testing |
 
 ## 🤝 Đóng Góp
 
