@@ -95,8 +95,8 @@ Chúng tôi tin rằng sự đa dạng trong ý tưởng sẽ tạo nên sản p
 
 Có ý tưởng hay muốn hợp tác? Liên hệ với tôi:
 
-- 📧 Email: ngtrnhao@gmail.com
-- 🌐 Facebook: [Nguyễn Trương Nhật Hào](https://facebook.com/ngtrnhao)
+- 📧 Email: nguyentruongnhathao1922@gmail.com
+- 🌐 Facebook: [Nguyễn Trương Nhật Hào](https://facebook.com/Xuhaoo202)
 - 📸 Instagram: [@ngtrnhao](https://instagram.com/ngtrnhao)
 - 💻 GitHub: [@ngtrnhao](https://github.com/ngtrnhao)
 
