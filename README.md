@@ -9,9 +9,9 @@ Xin chào! Tôi là **Nhật Hào**, một nhà phát triển full stack với n
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ngtrnhao)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Xuhaoo202)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ngtrnhao)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngtrnhao@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyentruongnhathao1922@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngtrnhao)
 
 </div>
@@ -53,8 +53,7 @@ Xin chào! Tôi là **Nhật Hào**, một nhà phát triển full stack với n
 
 ## 🎯 Tính Năng Đột Phá
 
-- 🔍 **AI-powered Book Recommendations**: Sử dụng trí tuệ nhân tạo để đề xuất sách phù hợp với sở thích cá nhân.
-- 🛒 **Smart Cart**: Giỏ hàng thông minh với tính năng so sánh giá và đề xuất combo.
+
 - 💳 **Secure Multi-Payment Options**: Đa dạng phương thức thanh toán an toàn.
 - 📊 **Interactive Admin Dashboard**: Bảng điều khiển quản trị viên với biểu đồ trực quan và phân tích dữ liệu thời gian thực.
 - 🌈 **Customizable UI**: Giao diện người dùng có thể tùy chỉnh theo sở thích cá nhân.
@@ -63,14 +62,14 @@ Xin chào! Tôi là **Nhật Hào**, một nhà phát triển full stack với n
 
 <div align="center">
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 </div>
+
+- **Frontend & Backend:** Flutter/Dart
+- **Cơ sở dữ liệu:** Firebase
 
 ## 👥 Dream Team
 
