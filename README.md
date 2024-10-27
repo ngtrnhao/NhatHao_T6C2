@@ -44,9 +44,8 @@ Xin chào! Tôi là **Nhật Hào**, một nhà phát triển full stack với n
 # 📚 Dự Án Nổi Bật: Ứng Dụng Nhà Sách Every Taste
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="300">
 </div>
-
 ## 🌟 Tổng Quan
 
 **Every Taste** không chỉ là một ứng dụng mua sắm sách thông thường. Đây là một hệ sinh thái hoàn chỉnh dành cho những người yêu sách, kết hợp giữa công nghệ tiên tiến và niềm đam mê văn học.
